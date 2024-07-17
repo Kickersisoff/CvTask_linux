@@ -1,0 +1,3 @@
+/home/oms/zeuron/websocket/build/CMakeFiles/server.dir
+/home/oms/zeuron/websocket/build/CMakeFiles/edit_cache.dir
+/home/oms/zeuron/websocket/build/CMakeFiles/rebuild_cache.dir

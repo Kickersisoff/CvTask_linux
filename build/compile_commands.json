@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/oms/zeuron/websocket/build",
+  "command": "/usr/bin/c++ -DASIO_STANDALONE -I/opt/vcpkg/installed/x64-linux/include/cpp-base64 -I/home/oms/zeuron/websocket/../tflite-dist/include -isystem /usr/include/opencv4 -isystem /opt/vcpkg/installed/x64-linux/include -g -o CMakeFiles/server.dir/main.cpp.o -c /home/oms/zeuron/websocket/main.cpp",
+  "file": "/home/oms/zeuron/websocket/main.cpp"
+}
+]
